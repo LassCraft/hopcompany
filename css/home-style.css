@@ -14,9 +14,9 @@ html, body{
     background-color: black;
 }
 
-audio{
+video{
     display: block;
-    margin: 120px auto 0px auto;
+    margin: 50px auto 0px auto;
 }
 
 img{

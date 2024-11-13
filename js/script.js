@@ -4,7 +4,7 @@ function CheckPass(){
 
     if (password === correctpassword)
     {
-        window.location.href = "acess_garanted.html"
+        window.location.href = "access_garanted.html"
     } else {
         alert("senha incorreta")
     }
